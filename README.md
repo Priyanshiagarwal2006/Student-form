@@ -58,7 +58,7 @@ Initial release with full functionality: add, check, update, and reset student d
 
 Here is how the form looks in the browser:
 
-![Screenshot 2025-08-22 121247](https://github.com/user-attachments/assets/dd1a0f2e-9857-40f7-852e-b238f33291b6)
+![Screenshot 2025-08-22 121247]([https://github.com/user-attachments/assets/dd1a0f2e-9857-40f7-852e-b238f33291b](https://github.com/Priyanshiagarwal2006/Student-form/blob/main/Screenshot%202025-08-22%20121247.jpg?raw=true)6)
 ![Screenshot 2025-08-22 121410](https://github.com/user-attachments/assets/09357841-3b72-4f49-9b03-de856f6f51f8)
 
 DATABASE:
