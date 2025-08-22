@@ -49,7 +49,7 @@ This is a simple web-based application to manage student records. It uses JSONPo
 
 ## Release History
 
-Version 1.0 – May 12, 2025  
+AUGUST 22, 2025  
 Initial release with full functionality: add, check, update, and reset student data.
 
 ---
