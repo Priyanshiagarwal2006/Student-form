@@ -3,6 +3,7 @@
 A lightweight and responsive web application to manage student records seamlessly. The project integrates JSONPowerDB (JPDB) as a backend database with a Bootstrap + jQuery frontend. Users can easily add, update, fetch, and reset student data by Roll Number in real time.
 
 📑 Table of Contents
+
 Section	Details
 🔹 Project Title	Student Enrollment Form using JPDB API
 🔹 Description	A fully functional student record system with real-time database operations.
@@ -23,6 +24,7 @@ Eliminates the need for traditional server/backend setups
 
 Flexible JSON-based query structure
 
+
 ⚙️ Key Functionalities
 
 Roll Number Search → Instantly check if a student exists
@@ -35,6 +37,7 @@ Local Storage Integration → Record number tracking for updates
 
 Reset Option → One-click clear for all fields and states
 
+
 💡 Usage Examples
 
 Add Student → Fill all fields → Click Save
@@ -44,6 +47,7 @@ View Student → Enter Roll Number → Press Tab → Auto-fetch details
 Update Student → Modify details → Click Update
 
 Reset Form → Clears all input fields and resets buttons
+
 
 📌 Version History
 
@@ -62,6 +66,7 @@ Here is how the form looks in the browser:
 DATABASE:
 ![Screenshot 2025-08-22 121444](https://github.com/Priyanshiagarwal2006/Student-form/blob/main/Screenshot%202025-08-22%20121444.jpg)
 
+
 🔮 Future Enhancements
 
 🗑️ Add Delete Student functionality
@@ -72,6 +77,7 @@ DATABASE:
 
 🔍 Search & filter capabilities
 
+
 📚 References
 
 JsonPowerDB (Official Site)
@@ -79,6 +85,7 @@ JsonPowerDB (Official Site)
 JPDB API Documentation
 
 jQuery Documentation
+
 
 📌 Additional Notes
 
