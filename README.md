@@ -65,10 +65,6 @@ Here is how the form looks in the browser:
 ![Screenshot 2025-08-22 121247](https://github.com/Priyanshiagarwal2006/Student-form/blob/main/Screenshot%202025-08-22%20121247.jpg)
 ![Screenshot 2025-08-22 121410](https://github.com/Priyanshiagarwal2006/Student-form/blob/main/Screenshot%202025-08-22%20121410.jpg)
 
-DATABASE:
-![Screenshot 2025-08-22 121444](https://github.com/Priyanshiagarwal2006/Student-form/blob/main/Screenshot%202025-08-22%20121444.jpg)
-
-
 ---
 
 
